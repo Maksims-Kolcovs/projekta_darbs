@@ -1,35 +1,51 @@
-### YouTube audio ceļu pārveide tekstā
-# Projekta autori: 
+# YouTube Audio Ceļu Pārveide Tekstā
 
-* Maksims Koļcovs 15. grupa | 231RDB363
-* Daniels Pauls Savickis 12. grupa | 231RDB067
+> [!TIP]
+> Kods ir paredzēts Visual Studio Code!
 
-# Projekta pamatmērķis un uzdevumi:
-Izstrādāt programmatūru jeb skriptu, kas pildīs sekojošus uzdevumus:
+> [!NOTE] Nepieciešams ielādēt šādas bibliotēkas:
+>pip install selenium
+>pip install csv
+>pip install tkinter
 
-1. uzdevums - [] Izmantojot Selenium bibliotēku izstrādāt kodu, kas iegūtu audio ceļus no YouTube platformas.
-2. uzdevums - [] Izgūtos ceļus skriptam automātiski ir jāsaglabā word dokumentā.
-3. uzdevums - [] Izstrādāt atsevišķu skriptu, kas piedāvātu lietotājam iztulkot izgūto informāciju.
-4. uzdevums - [] Izveidot ceļu uz rīku, kas pārbauda teksta pareizrakstību.
-5. uzdevums - [] Pārliecināt lietotājus par šī skripta praktiskumu.
+## Projekta Autori
 
-# Katra uzdevuma realizācija un skaidrojums:
-
-1. uzdevums
-
-2. uzdevums
-
-Lai programmatūras lietotājiem būtu ērti pārskatīt audio ceļus, tiek piedāvāts ievietot tos word dokumentā, lai teksts kļūtu vieglāk saprotams un uztveramāks. Musuprāt, pārskatīt tekstu terminālā jeb izvadē nav ērti, līdz ar to, tiek piedāvāts ievietot tos atseviškā papīrā. Tas atvieglos teksta pārskatīšanu un koreģēšanu savām vajadzībām, kā arī ļaus lejuplādēt to savā datorā un izprintēt. Lai to īstenotu
+- Maksims Koļcovs, 15. grupa | 231RDB363
+- Daniels Pauls Savickis, 12. grupa | 231RDB067
 
 
-3. uzdevums
 
-Kā mēs zinam, ne visās valodās ir pietiekami daudz, piemēram, pētījumu, zinātnisko rakstu un materiālu kurus varētu izmantot. Tāpēc, ir iespēja iztulkot sev vajadzīgā valodā, lai paātrinātu un atvieglotu darbu.
+## Projekta Pamatmērķis un Uzdevumi
 
-Svarīgi pieminēt, arī iztulkota informācija ir īpašums. Mēs aicinam arī iztulkoto adresēt pie "Izmantotie avoti", lai izrādītu savstarpēju cieņu un nebūtu problēmas ar autortiesībām.
+Mūsu projekta mērķis ir izstrādāt programmatūru jeb skriptu, kas pildīs sekojošus uzdevumus:
+
+1. **Audio ceļu iegūšana no YouTube:** Izstrādāsim kodu, kas izmanto Selenium bibliotēku, lai iegūtu audio ceļus no YouTube platformas.
+2. **Ceļu saglabāšana CSV dokumentā:** Izgūtos ceļus skriptam automātiski būs jāsaglabā CSV dokumentā.
+3. **Teksta tulkošana:** Izstrādāsim atsevišķu skriptu, kas piedāvās lietotājam iztulkot izgūto informāciju.
+4. **Teksta pareizrakstības pārbaude:** Izveidosim ceļu uz rīku, kas pārbaudīs teksta pareizrakstību.
+5. **Lietotāju pārliecināšana:** Mūsu galvenais uzdevums ir pārliecināt lietotājus par šī skripta praktiskumu.
+
+## Uzdevumu Realizācija un Skaidrojums
+
+### 1. Audio ceļu iegūšana no YouTube
+
+### 2. Ceļu saglabāšana Word dokumentā
+
+### 3. Teksta tulkošana
+
+### 4. Teksta pareizrakstības pārbaude
+
+### 5. Lietotāju pārliecināšana
 
 
-4. uzdevums
+
+## Izmantoto Python bibliotēku saraksts un izmantošanas skaidrojums
 
 
-5. uzdevums
+Mūsu Python skriptā mēs izmantojām vairākas bibliotēkas:
+
+- `selenium`:
+
+- `csv`:
+
+- `tkinter`:
