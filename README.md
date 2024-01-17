@@ -3,7 +3,8 @@
 > [!TIP]
 > Kods ir paredzēts Visual Studio Code!
 
-> [!NOTE] Nepieciešams ielādēt šādas bibliotēkas:
+> [!NOTE] 
+>Nepieciešams ielādēt šādas bibliotēkas:
 >pip install selenium
 >pip install csv
 >pip install tkinter
