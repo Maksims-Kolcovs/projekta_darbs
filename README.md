@@ -26,10 +26,8 @@
 Mūsu projekta mērķis ir izstrādāt programmatūru jeb skriptu, kas pildīs sekojošus uzdevumus:
 
 1. **Audio ceļu iegūšana no YouTube:** Izstrādāsim kodu, kas izmanto Selenium bibliotēku, lai iegūtu audio ceļus no YouTube platformas.
-2. **Ceļu saglabāšana CSV dokumentā:** Izgūtos ceļus skriptam automātiski būs jāsaglabā CSV dokumentā.
-3. **Teksta tulkošana:** Izstrādāsim atsevišķu skriptu, kas piedāvās lietotājam iztulkot izgūto informāciju.
-4. **Teksta pareizrakstības pārbaude:** Izveidosim ceļu uz rīku, kas pārbaudīs teksta pareizrakstību.
-5. **Lietotāju pārliecināšana:** Mūsu galvenais uzdevums ir pārliecināt lietotājus par šī skripta praktiskumu.
+2. **Ceļu saglabāšana `.CSV` vai `excel` dokumentā:** Izgūtos ceļus skriptam automātiski būs jāsaglabā `.csv` vai `.excel` dokumentā.
+3. **Lietotāju pārliecināšana:** Mūsu galvenais uzdevums ir pārliecināt lietotājus par šī skripta praktiskumu.
 
 ## Izmantoto Python bibliotēku saraksts un izmantošanas skaidrojums
 
