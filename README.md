@@ -33,7 +33,7 @@ Mūsu projekta mērķis ir izstrādāt programmatūru jeb skriptu, kas pildīs s
 
 `Audio ceļu iegūšana no YouTube`: paveikt šo uzdevumu var izmantojot `Selenium` bibliotēkas plāšās iespējas. Galvenais uzdevums, lai to panāktu ir izvēlēties pareizo ceļu līdz `Transcript` audio ceļiem. Nepieciešams uzrakstīt skriptu, kas pildīs cilvēka darbības: uzpiest uz *Google Chroome* pārlūku > nonākt *YouTube* platformā > uzspiest uz video > apstiprināt  *cookies* > uzspiest uz `more` jeb `vairāk` > uzpiest `Transcript`. Automizējot šīs darbības mēs varam panākt, ka lietotājs izgūst šos ceļus savām vajadzībām.
 
-`Ceļu saglabāšana .csv`: Lai izgūta informācija jeb `Transcript` būtu vieglāk pārskatāms mēs piedāvajam to saglabāt atsevišķā `.csv` datnē. Musuprāt, tādā veidā viss teksts būs daudz pārskatamāks, jo `terminālā` vai `YouTube` ir daudz neērtāk pārskatīt un kopēt.
+`Ceļu saglabāšana .csv`: Lai izgūta informācija jeb `Transcript` būtu vieglāk pārskatāms mēs piedāvajam to saglabāt atsevišķā `.csv` datnē. Musuprāt, tādā veidā viss teksts būs daudz pārskatamāks, jo `terminālā` vai `YouTube` ir daudz neērtāk pārskatīt un kopēt to, ja ir tāda nepieciešamība. Šo uzdevumu arī var paveikt izmantojot `Selenium` plašo funkcionalitāti, iegūto `Transcript` `Selenium` ievieto `.csv` datnē.
 
 `Lietotāju pārliecināšana`: Jebkuras programmatūras pamatmērķis ir pielietojums. Mēs gribam pārliecināt lieotājus, ka mūsu kods var atvieglot to dzīvi. Tāpēc tiks demonstrēti reālie pielietojuma piemēri.
 
