@@ -14,14 +14,14 @@
 >
 > Googe Chrome
 
-## Projekta Autori
+## Projekta Autori 🔨
 
 - Maksims Koļcovs, 15. grupa | 231RDB363
 - Daniels Pauls Savickis, 12. grupa | 231RDB067
 
 
 
-## Projekta Pamatmērķis un Uzdevumi
+## Projekta Pamatmērķis un Uzdevumi 🎯
 
 Mūsu projekta mērķis ir izstrādāt programmatūru jeb skriptu, kas pildīs sekojošus uzdevumus:
 
@@ -36,7 +36,7 @@ Mūsu projekta mērķis ir izstrādāt programmatūru jeb skriptu, kas pildīs s
 `Ceļu saglabāšana .csv`: Lai izgūta informācija jeb `Transcript` būtu vieglāk pārskatāms mēs piedāvajam to saglabāt atsevišķā `.csv` datnē. Lai tu realizētu mēs izmantojām
 
 
-## Izmantoto Python bibliotēku saraksts un izmantošanas skaidrojums
+## Izmantoto Python bibliotēku saraksts un izmantošanas skaidrojums 🐍
 
 
 Mūsu Python skriptā mēs izmantojām vairākas bibliotēkas:
