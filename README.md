@@ -56,7 +56,8 @@ Mūsu Python skriptā mēs izmantojām vairākas bibliotēkas:
 Šo programmatūru var lietot, piemēram, šādi:
 
 1. **Valodas apguvei, piemēram, lietotājs var izlasīt teikumus un to strūkturu, komentēt un pat pierakstīt izrunas.**
-2. **Dažādu darbu rakstīšanai, piemēram, ZPD (zinātniski pētnieciskais darbs), Baklaura darbs, referāti, ērti norādīt atsauci, jo ir norādīts precīzs laiks no video**
+2. **Dažādu darbu rakstīšanai, piemēram, ZPD (zinātniski pētnieciskais darbs), Baklaura darbs, referāti, ērti norādīt atsauci, jo ir norādīts precīzs laiks no video.**
 3. **Bibliotēkas `Selenium` un programmēšanas valodas `Python` pilnveidošanai, jo šajā skriptā ir veiktas vairākas dažādas darbības.**
-4. **Dziesmu `lyrics` izveidei**
+4. **Dziesmu `lyrics` izveidei.**
+
 
