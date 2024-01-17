@@ -29,20 +29,6 @@ Mūsu projekta mērķis ir izstrādāt programmatūru jeb skriptu, kas pildīs s
 4. **Teksta pareizrakstības pārbaude:** Izveidosim ceļu uz rīku, kas pārbaudīs teksta pareizrakstību.
 5. **Lietotāju pārliecināšana:** Mūsu galvenais uzdevums ir pārliecināt lietotājus par šī skripta praktiskumu.
 
-## Uzdevumu Realizācija un Skaidrojums
-
-### 1. Audio ceļu iegūšana no YouTube
-
-### 2. Ceļu saglabāšana CSV dokumentā
-
-### 3. Teksta tulkošana
-
-### 4. Teksta pareizrakstības pārbaude
-
-### 5. Lietotāju pārliecināšana
-
-
-
 ## Izmantoto Python bibliotēku saraksts un izmantošanas skaidrojums
 
 
