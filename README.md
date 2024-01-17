@@ -29,7 +29,7 @@ Mūsu projekta mērķis ir izstrādāt programmatūru jeb skriptu, kas pildīs s
 2. **Ceļu saglabāšana `.csv` dokumentā:** Izgūtos ceļus skriptam automātiski ir jāsaglabā `.csv` dokumentā.
 3. **Lietotāju pārliecināšana:** Mūsu galvenais uzdevums ir pārliecināt lietotājus par šī skripta praktiskumu.
 
-## Uzdevumu padziļinātais skaidrojums
+## Uzdevumu padziļinātais skaidrojums ⚙
 
 `Audio ceļu iegūšana no YouTube`: paveikt šo uzdevumu var izmantojot `Selenium` bibliotēkas plāšās iespējas. Galvenais uzdevums, lai to panāktu ir izvēlēties pareizo ceļu līdz `Transcript` audio ceļiem. Nepieciešams uzrakstīt skriptu, kas pildīs cilvēka darbības: uzpiest uz *Google Chroome* pārlūku > nonākt *YouTube* platformā > uzspiest uz video > apstiprināt  *cookies* > uzspiest uz `more` jeb `vairāk` > uzpiest `Transcript`. Automizējot šīs darbības mēs varam panākt, ka lietotājs izgūst šos ceļus savām vajadzībām.
 
