@@ -42,4 +42,4 @@ Mūsu Python skriptā mēs izmantojām vairākas bibliotēkas:
 
 - `csv`: Šī bibliotēka nodrošina iespēju strādāt ar CSV failiem Python programmēšanas valodā. Šajā skriptā mēs to izmantojām, lai saglabātu iegūto transkriptu CSV failā.
 
-- `tkinter`: 
+- `tkinter`: Python grafiskā (GUI - A graphical user interface) bibliotēka. Šajā kodā mēs to izmantojām, lai izveidotu GUI logu.
