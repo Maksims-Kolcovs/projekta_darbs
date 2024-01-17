@@ -5,8 +5,11 @@
 
 > [!NOTE] 
 >Nepieciešams ielādēt šādas bibliotēkas:
+> 
 >pip install selenium
+> 
 >pip install csv
+> 
 >pip install tkinter
 
 ## Projekta Autori
