@@ -29,7 +29,7 @@ Mūsu projekta mērķis ir izstrādāt programmatūru jeb skriptu, kas pildīs s
 2. **Ceļu saglabāšana `.csv` dokumentā:** Izgūtos ceļus skriptam automātiski ir jāsaglabā `.csv` dokumentā.
 3. **Lietotāju pārliecināšana:** Mūsu galvenais uzdevums ir pārliecināt lietotājus par šī skripta praktiskumu.
 
-## Uzdevumu padziļinātais skaidrojums ⚙
+## Uzdevumu Padziļinātais Skaidrojums ⚙
 
 `Audio ceļu iegūšana no YouTube`: paveikt šo uzdevumu var izmantojot `Selenium` bibliotēkas plāšās iespējas. Galvenais uzdevums, lai to panāktu ir izvēlēties pareizo ceļu līdz `Transcript` audio ceļiem. Nepieciešams uzrakstīt skriptu, kas pildīs cilvēka darbības: uzpiest uz *Google Chroome* pārlūku > nonākt *YouTube* platformā > uzspiest uz video > apstiprināt  *cookies* > uzspiest uz `more` jeb `vairāk` > uzpiest `Transcript`. Automizējot šīs darbības mēs varam panākt, ka lietotājs izgūst šos ceļus savām vajadzībām.
 
@@ -38,7 +38,7 @@ Mūsu projekta mērķis ir izstrādāt programmatūru jeb skriptu, kas pildīs s
 `Lietotāju pārliecināšana`: Jebkuras programmatūras pamatmērķis ir pielietojums. Mēs gribam pārliecināt lieotājus, ka mūsu kods var atvieglot to dzīvi. Tāpēc tiks demonstrēti reālie pielietojuma piemēri.
 
 
-## Izmantoto Python bibliotēku saraksts un izmantošanas skaidrojums 🐍
+## Izmantoto Python Bibliotēku Saraksts un Izmantošanas Skaidrojums 🐍
 
 
 Mūsu Python skriptā mēs izmantojām vairākas bibliotēkas:
@@ -50,3 +50,13 @@ Mūsu Python skriptā mēs izmantojām vairākas bibliotēkas:
 - `csv`: Šī bibliotēka nodrošina iespēju strādāt ar CSV failiem Python programmēšanas valodā. Šajā skriptā mēs to izmantojām, lai saglabātu iegūto transkriptu CSV failā.
 
 - `tkinter`: Python grafiskā (GUI - A graphical user interface) bibliotēka. Šajā kodā mēs to izmantojām, lai izveidotu GUI logu.
+
+## Programmatūras Izmantošanas Metodes 🔍
+
+Šo programmatūru var lietot, piemēram, šādi:
+
+1. **Valodas apguvei, piemēram, lietotājs var izlasīt teikumus un to strūkturu, komentēt un pat pierakstīt izrunas.**
+2. **Dažādu darbu rakstīšanai, piemēram, ZPD (zinātniski pētnieciskais darbS), Baklaura darbs, referāti, ērti norādīt atsauci, jo ir norādīts precīzs laiks no video**
+3. **Bibliotēkas `Selenium` un programmēšanas valodas `Python` pilnveidošanai, jo šajā skriptā ir veiktas vairākas dažādas darbības.
+4. **Dziesmu `lyrics` izveidei**
+
