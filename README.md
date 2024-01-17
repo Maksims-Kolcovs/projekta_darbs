@@ -48,8 +48,10 @@ Mūsu projekta mērķis ir izstrādāt programmatūru jeb skriptu, kas pildīs s
 
 Mūsu Python skriptā mēs izmantojām vairākas bibliotēkas:
 
-- `selenium`:
+- `selenium`: Ļoti elastīga un viegli saprotama bibliotēka. Šajā kodā tā tika izmanota, lai automizētu vairākas darbības YouTube tīmekā vietnē. `Selenium WebDriver` tiek izmantots, lai inicializētu Chrome pārlūku. Tas tiek izdarīts ar `webdriver.Chrome()` funkciju.
 
-- `csv`:
+- `time`: Time modulis nodrošina funckijas, lai varētu strādāt ar laiku dažādos uzdevumos. Šajā skriptā `sleep` funckija tiek izmantota, lai aizskavētu skripta izpildi.
 
-- `tkinter`:
+- `csv`: Šī bibliotēka nodrošina iespēju strādāt ar CSV failiem Python programmēšanas valodā. Šajā skriptā mēs to izmantojām, lai saglabātu iegūto transkriptu CSV failā.
+
+- `tkinter`: 
