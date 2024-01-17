@@ -33,7 +33,7 @@ Mūsu projekta mērķis ir izstrādāt programmatūru jeb skriptu, kas pildīs s
 
 ### 1. Audio ceļu iegūšana no YouTube
 
-### 2. Ceļu saglabāšana Word dokumentā
+### 2. Ceļu saglabāšana CSV dokumentā
 
 ### 3. Teksta tulkošana
 
