@@ -63,4 +63,12 @@ Mūsu Python skriptā mēs izmantojām vairākas bibliotēkas:
 
 Lai kods nostrādātu ir nepieciešams veikt papildinājumus kodā, lai būtu ērtāk atrast varat lietot ctrl+f un uzrakstīt `#here`. Tur tiks aprakstīts, ko nepieciešams izmainīt / pievienot !
 
+## Izmantotie Avoti 💡
+
+1. https://www.geeksforgeeks.org/find_element_by_xpath-driver-method-selenium-python/ - "How to use driver.find_element(By.XPATH) method in Selenium?" > Python 3 > element = driver.find_element(By.XPATH, "//form[input/@name ='search']") [Last Updated : 16 Mar, 2023 by 
+NaveenArora]
+2. https://www.selenium.dev/selenium/docs/api/py/webdriver/selenium.webdriver.common.action_chains.html - "The ActionChains implementation." > [Last updated: MARCH 23, 2023]
+3. https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax - Basic writing and formatting syntax > [snapshot: 20:36:25 JANUARY 17, 2024]
+4. https://stackoverflow.com/questions/12698843/how-do-i-pass-options-to-the-selenium-chrome-driver-using-python - Usage to create a Chrome driver instance - [Answered May 30, 2023 at 11:19 by kit4py and edited May 30, 2023 at 11:59 by user21985260]
+5. https://www.youtube.com/watch?v=t0PBBPuPgaw&list=PL2poe6dHjzLy6qW74W9KhxzFyDKbz6qXz&index=9 - 5. lekcija. Selenium izmantošana pārlūkprogrammas vadībai Python valodā - By Aleksejs Jurenoks, video uploaded [19 Nov 2023].
 
