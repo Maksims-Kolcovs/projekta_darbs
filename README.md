@@ -4,12 +4,14 @@
 > Kods ir paredzēts Visual Studio Code!
 
 > [!NOTE] 
->Nepieciešams ielādēt šādas bibliotēkas un lietotnes:
+> Nepieciešams ielādēt šādas bibliotēkas un lietotnes:
 > 
->selenium
+> selenium
 > 
->tkinter
+> tkinter
 >
+> pandas
+> 
 > Googe Chrome
 >
 > Ielādēt var ar: `pip install -r requirements.txt`
