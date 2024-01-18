@@ -52,7 +52,7 @@ Mūsu Python skriptā mēs izmantojām vairākas bibliotēkas:
 
 - `tkinter`: Python grafiskā (GUI - A graphical user interface) bibliotēka. Šajā kodā mēs to izmantojām, lai izveidotu GUI logu.
   
-- `pandas`: 
+- `pandas`: panda ir vienkārša un šīm kodam atbilstoša bibliotēka. Tika lietota, lai piedāvātu lietotājam saglabāt to `.excel` dokumentā.
 
 ## Programmatūras Izmantošanas Metodes 🔍
 
