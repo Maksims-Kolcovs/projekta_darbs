@@ -20,7 +20,6 @@
 - Daniels Pauls Savickis, 12. grupa | 231RDB067
 
 
-
 ## Projekta Pamatmērķis un Uzdevumi 🎯
 
 Mūsu projekta mērķis ir izstrādāt programmatūru jeb skriptu, kas pildīs sekojošus uzdevumus:
@@ -59,5 +58,9 @@ Mūsu Python skriptā mēs izmantojām vairākas bibliotēkas:
 2. **Dažādu darbu rakstīšanai, piemēram, ZPD (zinātniski pētnieciskais darbs), Baklaura darbs, referāti, ērti norādīt atsauci, jo ir norādīts precīzs laiks no video.**
 3. **Bibliotēkas `Selenium` un programmēšanas valodas `Python` pilnveidošanai, jo šajā skriptā ir veiktas vairākas dažādas darbības.**
 4. **Dziesmu `lyrics` izveidei.**
+
+## Programmatūras Konfigurēšana 💼
+
+Lai kods nostrādātu ir nepieciešams veikt papildinājumus kodā, lai būtu ērtāk atrast varat lietot ctrl+f un uzrakstīt `#here`. Tur tiks aprakstīts, ko nepieciešams izmainīt / pievienot !
 
 
