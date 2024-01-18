@@ -13,8 +13,8 @@
 >pip install tkinter
 >
 > Googe Chrome
->
-> [!WARNING]
+
+>[!WARNING]
 > Svarīgi pieminēt, ka ne visiem video `YouTube` ir pieejami `Transcripti!`
 
 ## Projekta Autori 🔨
