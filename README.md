@@ -6,14 +6,13 @@
 > [!NOTE] 
 >Nepieciešams ielādēt šādas bibliotēkas un lietotnes:
 > 
->pip install selenium
+>selenium
 > 
->pip install csv
-> 
->pip install tkinter
+>tkinter
 >
 > Googe Chrome
-
+>
+> Ielādēt var ar: pip install -r requirements.txt
 
 ## Projekta Autori 🔨
 
