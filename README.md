@@ -51,6 +51,8 @@ Mūsu Python skriptā mēs izmantojām vairākas bibliotēkas:
 - `csv`: Šī bibliotēka nodrošina iespēju strādāt ar CSV failiem Python programmēšanas valodā. Šajā skriptā mēs to izmantojām, lai saglabātu iegūto transkriptu CSV failā.
 
 - `tkinter`: Python grafiskā (GUI - A graphical user interface) bibliotēka. Šajā kodā mēs to izmantojām, lai izveidotu GUI logu.
+  
+- `pandas`: 
 
 ## Programmatūras Izmantošanas Metodes 🔍
 
@@ -63,7 +65,7 @@ Mūsu Python skriptā mēs izmantojām vairākas bibliotēkas:
 >[!WARNING]
 > Svarīgi pieminēt, ka ne visiem video `YouTube` ir pieejami `Transcripti!`
 
-## Programmatūras Konfigurēšana 💼
+## Programmatūras Konfigurēšana (tiek paradīts arī video) 💼
 
 1. Ielādēt `.py` failu un `requirements.txt`.
 2. Atvērt ar `Visual Stuio Code`.
@@ -81,4 +83,6 @@ NaveenArora]
 3. https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax - Basic writing and formatting syntax > [snapshot: 20:36:25 JANUARY 17, 2024]
 4. https://stackoverflow.com/questions/12698843/how-do-i-pass-options-to-the-selenium-chrome-driver-using-python - Usage to create a Chrome driver instance - [Answered May 30, 2023 at 11:19 by kit4py and edited May 30, 2023 at 11:59 by user21985260]
 5. https://www.youtube.com/watch?v=t0PBBPuPgaw&list=PL2poe6dHjzLy6qW74W9KhxzFyDKbz6qXz&index=9 - 5. lekcija. Selenium izmantošana pārlūkprogrammas vadībai Python valodā - By Aleksejs Jurenoks, video uploaded [19 Nov 2023].
+
+
 
