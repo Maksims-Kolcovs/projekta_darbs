@@ -12,7 +12,7 @@
 >
 > Googe Chrome
 >
-> Ielādēt var ar: pip install -r requirements.txt
+> Ielādēt var ar: `pip install -r requirements.txt`
 
 ## Projekta Autori 🔨
 
