@@ -65,7 +65,13 @@ Mūsu Python skriptā mēs izmantojām vairākas bibliotēkas:
 
 ## Programmatūras Konfigurēšana 💼
 
-Lai kods nostrādātu ir nepieciešams veikt papildinājumus kodā, lai būtu ērtāk atrast varat lietot ctrl+f un uzrakstīt `#here`. Tur tiks aprakstīts, ko nepieciešams izmainīt / pievienot !
+1. Ielādēt `.py` failu un `requirements.txt`.
+2. Atvērt ar `Visual Stuio Code`.
+3. Atvērt termināli.
+4. Termināli instalēt nepieciešamas bibliotēkas ar `pip install -r requirements.txt` komandu.
+5. Izvēleties vēlamo video un ievietot to jaunatvērtā logā.
+6. Saglabāt `.csv` vai `.excel`.
+
 
 ## Izmantotie Avoti 💡
 
